@@ -1,0 +1,28 @@
+<?xml version = '1.0' encoding = 'utf-8'?>
+<WixLocalization Culture="it" xmlns="http://schemas.microsoft.com/wix/2006/localization" Codepage="1252">
+  <String Id="lang">1040</String>
+
+  <String Id="title">Java SE Development Kit 8 - Impostazione</String>
+
+  <String Id="headerJava">
+      Questa procedura guidata assiste l'utente nel processo di installazione di %1
+  </String>
+  <String Id="description1">
+      I termini della concessione in licenza di questa versione del software sono stati modificati.
+  </String>
+   <String Id="license">
+      [Contratto di licenza aggiornato]
+  </String>
+  <String Id="description2">
+      La suite di strumenti di profiling e diagnostica Java Mission Control è ora disponibile all'interno del kit JDK
+  </String>
+  <String Id="personalInfo">
+      Durante il processo di installazione non vengono raccolti dati personali di alcun genere.
+  </String>
+  <String Id="personalInfolink">
+      [Dettagli sulle informazioni che vengono raccolte]
+  </String>
+  <String Id="installBtn">Avanti</String>
+  <String Id="cancelBtn">Annulla</String>
+
+</WixLocalization>
